@@ -1,0 +1,23 @@
+.container{
+    background-color: aquamarine;
+    margin: 5px;
+    padding: 9px;
+}
+.first{
+border: 2px solid blueviolet;
+    color: rgb(65, 66, 66);
+    margin: 5px;
+    padding: 9px;
+}
+.second{
+border: 2px solid blueviolet;
+    color: blue;
+    margin: 5px;
+    padding: 9px;
+}
+.third{
+    border: 2px solid blueviolet;
+    color: orange;
+    margin: 5px;
+    padding: 9px;
+}
