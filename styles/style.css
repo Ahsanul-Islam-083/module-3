@@ -1,3 +1,12 @@
+body{
+    background-color: black;
+}
+h1{
+    margin: 10px;
+    padding: 5px;
+   color: aqua;
+   text-align: center;
+}
 .container{
     background-color: aquamarine;
     margin: 5px;
